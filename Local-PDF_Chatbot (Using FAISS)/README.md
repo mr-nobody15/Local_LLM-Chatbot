@@ -11,6 +11,18 @@ Create a new anaconda environment of the name you want to give. Then,refer to th
 
 You can also use the file "requirements_ver.txt" after referring to this vid- https://youtu.be/Tu_HcflONZM?si=ri8zHQ6mrCP31TE-
 
+# Steps for installation
+
+i) git clone https://github.com/mr-nobody15/Local_LLM-Chatbot.git.
+ii) cd Local-PDF_Chatbot (Using FAISS), (You can also use cd L then press Tab which automatically folder name is seen).
+iii) Download the LLM's from Hugging Face using link https://huggingface.co/models.
+iv) Put Necessary documents under Documents Folder.
+v) Run command:
+
+pip install <all_modules in pipinstalls.txt> or pip install -r requirements.txt
+python ingest.py
+streamlit run chat.py
+
 # Documents Folder
 
 In this folder add necessary PDFs you would like to work with, I have added paper 2 and paper 3 as reference you can check it as test case after cloning repo into local machine.
