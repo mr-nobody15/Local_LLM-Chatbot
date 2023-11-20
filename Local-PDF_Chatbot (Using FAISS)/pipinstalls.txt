@@ -1,0 +1,13 @@
+pip installs :-
+
+1) langchain
+2) streamlit
+3) pypdf
+4) sentence-transformers
+5) faiss-cpu
+6) ctransformers
+
+If error comes type these in cmd/terminal:-
+pip uninstall transformers sentence-transformers langchain bitsandbytes
+pip install transformers sentence-transformers langchain bitsandbytes
+
