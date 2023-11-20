@@ -32,11 +32,11 @@ This is streamlit application in which on the left pane includes the model selec
 To run the application, set the model name and the parameters range, the responses are generated based on the model selection and parameters. For ex: Temperature is preferred to be in the range of 0 to 1.
 
 <p align="center">
-  <img src="https://github.com/mr-nobody15/Local-PDF_Chatbot/assets/70313481/89dd2b88-6e0f-4712-ad93-7ee5b0cd9df8" alt="Image Description" height="400">
+  <img src="https://github.com/mr-nobody15/Local_LLM-Chatbot/assets/70313481/3dd5a748-3da1-4907-89ac-e2ef63b27ff2" alt="Image Description" height="400">
 </p>
 
 <p align="center">
-  <img src="https://github.com/mr-nobody15/Local-PDF_Chatbot/assets/70313481/7468ac15-f5b6-4dae-9e87-fd453a879f6d" alt="Image Description" height="370">
+  <img src="./Pics/Application.jpg" alt="Image Description" height="370">
 </p>
 
 # Outputs 
@@ -44,13 +44,13 @@ To run the application, set the model name and the parameters range, the respons
 Below output response is given by "mistral-7b-instruct":
 
 <p align="center">
-  <img src="https://github.com/mr-nobody15/Local-PDF_Chatbot/assets/70313481/4f037a57-1875-48ea-a595-6de1871cbd4a" alt="image" width="800" height="340">
+  <img src="https://github.com/mr-nobody15/Local_LLM-Chatbot/assets/70313481/b3ca247e-dab0-44cc-8cb1-44d3b73bf4bb" alt="image" width="800" height="340">
 </p>
 
 Below output response is given by "Vicuna-13 5-bit":
 
 <p align="center">
-  <img src="https://github.com/mr-nobody15/Local-PDF_Chatbot/assets/70313481/c0d0e5ca-1e86-4192-a616-70f83a7e64a3" alt="image" width="800" height="340">
+  <img src="https://github.com/mr-nobody15/Local_LLM-Chatbot/assets/70313481/fe2b04cf-7158-4f7c-9091-7301eb0864da" alt="image" width="800" height="340">
 </p>
 
 
